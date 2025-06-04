@@ -1,5 +1,5 @@
 # Startup Landing Page  
-**Descripción**: Landing Page para [Nombre de Startup] (ej: "TechHealth").  
+**Descripción**: Landing Page para [Tech Health].  
 **Equipo**:  
 - Frontend 1 (Formulario): [Eduardo Molina Lucio]  
 - Frontend 2 (Estilos): [Adalberto Jesus Gonzales Bernal]  
